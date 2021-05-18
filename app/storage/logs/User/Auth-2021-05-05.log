@@ -1,0 +1,36 @@
+[2021-05-05 16:09:33] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => '255754711502',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 8,
+    'Role' => 1,
+    'UserName' => '255754711502',
+    'Email' => 'mgwenoc@vodacom.co.tz',
+    'Phone' => '255754711502',
+    'FirstName' => 'Chijenga',
+    'Surname' => 'Mgweno',
+    'isAD' => false,
+    'Rights' => 
+    array (
+      0 => 
+      array (
+        'RightID' => 10,
+        'Name' => 'Main Dashboard',
+      ),
+      1 => 
+      array (
+        'RightID' => 12,
+        'Name' => 'Onboardings',
+      ),
+    ),
+    'Token' => '8FRAXdzheEjpNKoN1Dec5r2vLdOk3IvMDyTdczA1u2asHnOMR2BBHB0Amf-c9AGrYQ5cIDKYwc08OOeX4Xgs9YD3yuN_0jTcLrg3WMsNjkHZT-Z66rJvQyepeToSDhrhPtuVFRYH_5P2DDctiGS3SernTRQbAkyyYvnuey80pPdtdXhrVIOpK7Iy8AUgOqAWBb108V7NIWNmwmJJzgcq77TTVpV_EohlfWcJH3-jv18',
+    'Error' => NULL,
+    'EpireTime' => 'Sat, 08 May 2021 01:09:33 GMT',
+    'ChangePassword' => false,
+  ),
+)  

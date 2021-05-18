@@ -1,0 +1,40 @@
+[2021-03-24 17:23:31] local.DEBUG: array (
+  'user' => 'mgwenoc',
+  'Request' => 
+  array (
+    'AgregatorID' => 6,
+    'AgregatorBusinessName' => 'TEST COMPANY',
+    'AgregatorShortCode' => 'F54HG7',
+    'AgregatorTin' => '343533535',
+    'AgregatorBusinessLicense' => '8799797',
+    'Address' => 'Adress 1',
+    'Phonenumber' => '255759416358',
+    'VerifiedBy' => 7,
+    'VerificationStatus' => 1,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-03-24 17:36:17] local.DEBUG: array (
+  'user' => 'mgwenoc',
+  'Request' => 
+  array (
+    'AgregatorID' => 8,
+    'AgregatorBusinessName' => 'ARUSHA TRIAL LIMITED',
+    'AgregatorShortCode' => 'arnoldpete',
+    'AgregatorTin' => '119278902',
+    'AgregatorBusinessLicense' => 'B3169823',
+    'Address' => 'ROMBO-MASHATI',
+    'Phonenumber' => '255764001956',
+    'VerifiedBy' => 7,
+    'VerificationStatus' => 1,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

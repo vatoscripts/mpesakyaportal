@@ -1,0 +1,320 @@
+[2021-05-12 00:26:54] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 'FE8zeL1Q2oF96T0JqPNOgMneId2H8sQf7A-fc5ABDP7_C4rq09kZ6sp3QBR7fWHkF5XQn4FCCsQca8J99sqcP8WiDJ-sA-RbrCOCxPCgFLu5Txo-bGmxpot0nPWBvjCdNeapXnwtLez1CKww98Vb5_MX9shEj16eUmlUPl1kDH4B7vH9PKJf_oyvXKtn4m6ZOCfaBDhWdJfmG3-CT5KD_WD7Fgd31_e1cD5K4Wx2s4I',
+    'Error' => '',
+    'EpireTime' => 'Fri, 14 May 2021 09:26:53 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 00:27:08] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '761748',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 01:13:40] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => '_t2CJ-tNiRM5jNqFa2crr8KfX_jjGOmLJivgwFgtYeSXA2RUihwYuuQBMecLa_tEmZgRswgPDMoV0L7kg57V1D0ib29EBZadX1cx0t2zw7BOcMJBRxCNNgqbdxHL-L-jRpNFHtQvnfABotCQ2rwuiiC1zqMOJmjNjIuAB6G0nblbQRoaWiSouWtc7j7s7XLzeNyxyxrQh8cp7RrqA_Mg_lJKYCqu_YLP1UfH_87mMUI',
+    'Error' => '',
+    'EpireTime' => 'Fri, 14 May 2021 10:13:40 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 01:13:58] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '515911',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 01:26:15] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 'xqn1CPKDnYMYEa9tM3tLGYpWk-goYnSbiJdySrn-b1g_EdLcz3owEdmUE5SHuOehp-AtHak42av1G7bN5ZFioJk7XVWX8-twTif2AG_1QVewlOqzeXsZuX-rHuePCPfUcxRdotDSBFHTOJGfWm0jfC2JDieG4gZMT1Jy6LT_y_9I_CDsyDqHc0ll0EuS9hJuYAFjLNS9RGEXDxcgxYUY_LVXVbMWAbKAj757FZ3AiiU',
+    'Error' => '',
+    'EpireTime' => 'Fri, 14 May 2021 10:26:14 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 01:26:24] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '026318',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 02:25:39] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => '3aYh0_e1eYH3mb3v9nKWampA8017ExKlktGfstVEtIYlv_NlCukZLGWtm_nr-smlD1IogifAg5R1R6-T_wskk2aJgj9SQGrM2RR0p60-XJ5-X5lSvKBB2Er3PhLg6X-FhwvmzdjzOUBsz4Jjr9ks7c-bw50rwTE7vH9HKNkmsApXcXDJXNPLLzWPp6BS7A79QeRMe1aVnUmT5v0QEUEeUJVq-6LkBh1YCZ7ldvgplqw',
+    'Error' => '',
+    'EpireTime' => 'Fri, 14 May 2021 11:25:39 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 02:25:52] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '723508',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 14:55:06] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 'CEk-va_e4qKh18LE8YVJR4_yLax9USfPRLw-vhI291cgOA9cs8bzJ9YYpRc7vm6fJiuhvPNyrMs1l4DzRyPz3m0BIBucU7wk9eC4wIeNW5GfzFlvF0sN87Z_56jL78-9X7pOOBuTxAd6viByVK1wHbaSR4taG76YNAYIiNcuA4C8-f9HNcK3R0Mr6fjjTYKh1G4-YKV6q9O7n63QrPXxUPLjDmrJqbaYr5VuL2L2UZU',
+    'Error' => '',
+    'EpireTime' => 'Fri, 14 May 2021 23:55:06 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 14:55:16] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '225059',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 17:03:26] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => '8oWuiAOHKnGHEqD5gzG7aN-XBd9Ho5gZlgauvnkZEHutS8mognLvcuksutgaZo2EcF4-XGlDYEb12mmqlJVozaMLk8McBNDGGECaqbFs2c3YQq53tbGHyBy-8erF92J9Lvpe7vN-gUtOt6zjEojvVBtMHrygvA8fNYDUa52lVqLiKuSzw2XLAw4RyBSA9E6yfwE1DOvxO-fscVrkAQ4_LYiZ23M9qBDLwsADIUdalpQ',
+    'Error' => '',
+    'EpireTime' => 'Sat, 15 May 2021 02:03:25 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 17:03:36] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '299242',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 17:34:34] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 'kif9yyB3FtK3KBau5j1_kw-7bFcNTCQWpF-qlFPT3vwNvtTiOA6M9CfLuyqlLn5zCWpfmBvGaJGdMrTUdXE7bwWRy9wu0YEiMpSG2rmKkGKs5ydR9rykRcb5I_lIT98qS6gDNDnWq9E5-NKaSPo8gwzENGXpwnrxPmGsOO9okfYY_cJPxOYMtsS3mfOPyCbNsY55u3NJoLrbRyrZODfJUkhaQVXEgUUrZwkP8xlrpMo',
+    'Error' => '',
+    'EpireTime' => 'Sat, 15 May 2021 02:34:34 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 17:34:46] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '284445',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-12 23:35:40] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'salen001',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 32,
+    'Role' => 7,
+    'UserName' => 'salen001',
+    'Email' => 'salen001@vcontractor.co.tz',
+    'Phone' => '255743254965',
+    'FirstName' => 'Najim',
+    'Surname' => 'Saleh',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 'ssJJ_642sgfw7gdJ2wc-BQlCValhm26kobiOB7n-WI0Xa6SEBubFjtOTYh2ZjA1aZC2DFCHvq7ZuASxHZ2_U1t18wvQP51OkMhR2SBFkiV3rJ-ZxoDMOhE3y26x1P9kwqCBej6kfqM09CECbyjjpLjyxJfZkUPIzOWTd-WjOfOG7uC_jCN8xVBiCsxzTcUz38_Rh0SRew6A5ZyI05zkrBUyWWMNx49YzYVDbhWah8vY',
+    'Error' => '',
+    'EpireTime' => 'Sat, 15 May 2021 08:35:39 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-05-12 23:35:50] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 32,
+    'Description' => '523632',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  

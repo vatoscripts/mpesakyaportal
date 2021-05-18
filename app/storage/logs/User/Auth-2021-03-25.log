@@ -1,0 +1,40 @@
+[2021-03-25 01:54:30] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'mgwenoc',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 7,
+    'Role' => 7,
+    'UserName' => 'mgwenoc',
+    'Email' => 'mgwenoc@vodacom.co.tz',
+    'Phone' => '255754711502',
+    'FirstName' => 'Chijenga',
+    'Surname' => 'Mgweno',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 's1NkD5Q3dxcyPDSzs9BQyGrphSc_ZQUWJv99Dxy4SiG-ZAN-o80Tt4WUwqy67_LniCm-b3GeZDlW6Lw9_Wa-u4fmWJ74b-qvOtHJRT69YpX0VDTm-povASMgoMQ27aLplTfkzf_Bv7DpCjPHB-RjJ-Pdnhqz10KRc2Vdf2yXyq5dS5-fWe_unI5-06wRC6wCuCVM6Z_o5314bljAI5keGIR1wBRDRvEdksy5jsJV-RQ',
+    'Error' => '',
+    'EpireTime' => 'Sat, 27 Mar 2021 10:54:30 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-03-25 01:54:43] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 7,
+    'Description' => '900859',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  

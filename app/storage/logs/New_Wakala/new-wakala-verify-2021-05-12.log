@@ -1,0 +1,795 @@
+[2021-05-12 01:04:58] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1076,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing decline',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 01:05:30] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:05:47] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:09:22] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:09:34] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:09:44] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:11:06] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:11:11] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:12:47] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:13:00] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:15:11] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:16:48] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:19:25] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:20:10] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:20:30] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:26:54] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:27:32] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:29:14] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:32:49] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:33:08] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:43:15] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:45:14] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:47:42] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:47:54] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:49:32] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:51:34] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:51:47] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:53:03] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Test',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:53:13] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Test',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:53:21] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 01:54:38] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:57:44] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 01:59:09] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 02:00:42] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 02:02:06] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 02:17:28] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 02:17:55] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 02:24:22] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'hey',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 02:24:45] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 02:29:01] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 02:29:20] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 0,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 1,
+    'Description' => 'There is no row at position 0.',
+  ),
+)  
+[2021-05-12 15:34:48] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1079,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 17:06:06] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1080,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  
+[2021-05-12 17:11:02] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1081,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing rejection',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:33:23] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1082,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing rejection',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:39:03] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1083,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing rejection',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:44:59] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1084,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing rejection',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:46:17] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1084,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing rejection',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:46:37] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1084,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Reject',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:49:39] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1085,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 17:55:01] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1086,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Testing',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 23:41:22] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1087,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'Rejection',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Declined',
+  ),
+)  
+[2021-05-12 23:45:42] local.DEBUG: array (
+  'user' => 'salen001',
+  'Request' => 
+  array (
+    'UserID' => 32,
+    'MpesaAgentID' => 1088,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'Successfully Verified',
+  ),
+)  

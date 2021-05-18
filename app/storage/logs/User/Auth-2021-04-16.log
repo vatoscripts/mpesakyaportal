@@ -1,0 +1,50 @@
+[2021-04-16 13:42:02] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => '255754711502',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 8,
+    'Role' => 1,
+    'UserName' => '255754711502',
+    'Email' => 'mgwenoc@vodacom.co.tz',
+    'Phone' => '255754711502',
+    'FirstName' => 'Chijenga',
+    'Surname' => 'Mgweno',
+    'isAD' => false,
+    'Rights' => 
+    array (
+      0 => 
+      array (
+        'RightID' => 10,
+        'Name' => 'Main Dashboard',
+      ),
+      1 => 
+      array (
+        'RightID' => 12,
+        'Name' => 'Onboardings',
+      ),
+    ),
+    'Token' => 'PjAUkABDBGZnEv3fVJb9xh_ls-KH_Tc6uw5qNF6RYb6FNZsWshwCDE73VeFYjvxI4yUtGYl1ZHEERgxWjXBAqV8Muq8o6vPF1OV-stvfg_3Md_S6nsDGbV_txvUXpAlqD4oG184LOAH3YXbGbcbVrcy2pAE2kUlvhy5jqrpXCFp7Yc5nLNcTRoyGOimP8d3ThDZ-Umm6oJcSJgUOl4ZCgNUiLTYCCyY-GsVoolOEj-s',
+    'Error' => NULL,
+    'EpireTime' => 'Sun, 18 Apr 2021 22:42:01 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-04-16 13:42:20] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 8,
+    'Description' => '903825',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  

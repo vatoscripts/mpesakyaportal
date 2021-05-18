@@ -1,0 +1,101 @@
+[2021-04-21 10:58:35] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => '255754711502',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 8,
+    'Role' => 1,
+    'UserName' => '255754711502',
+    'Email' => 'mgwenoc@vodacom.co.tz',
+    'Phone' => '255754711502',
+    'FirstName' => 'Chijenga',
+    'Surname' => 'Mgweno',
+    'isAD' => false,
+    'Rights' => 
+    array (
+      0 => 
+      array (
+        'RightID' => 10,
+        'Name' => 'Main Dashboard',
+      ),
+      1 => 
+      array (
+        'RightID' => 12,
+        'Name' => 'Onboardings',
+      ),
+    ),
+    'Token' => 'IzqkTkRcqJ0f1H_2xZTXHasOJ82UGvoyXA8BQ2KIM-ArF3BPmnW5BMvkpnPhqzxUFwtS8xCefYtdbq_3J873vpcvVq6PsuDFEnhcREopACT-2Qa6Kqzx0A9lVIxdGYpDih3xv4fsj6hWNpGL2aTogELUiHTap5olbViR5ulsxHLJ-Sc8sQyZ3YRdLOj8__ArrSndeQJIaiX85lxOk6gYSixf4ZXk4NHZcnQmjGsX7lY',
+    'Error' => NULL,
+    'EpireTime' => 'Fri, 23 Apr 2021 19:58:34 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-04-21 10:58:55] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 8,
+    'Description' => '388888',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-04-21 11:21:36] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 8,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-04-21 11:21:46] local.DEBUG: array (
+  'Request' => 
+  array (
+    'UserName' => 'mgwenoc',
+    'platform' => 'web',
+    'AppVersion' => NULL,
+  ),
+  'Response' => 
+  array (
+    'UserID' => 7,
+    'Role' => 7,
+    'UserName' => 'mgwenoc',
+    'Email' => 'mgwenoc@vodacom.co.tz',
+    'Phone' => '255754711502',
+    'FirstName' => 'Chijenga',
+    'Surname' => 'Mgweno',
+    'isAD' => true,
+    'Rights' => 
+    array (
+    ),
+    'Token' => 'Qca_Wjt_8xMe5jXniTroRZG4DJDazRjgOHVNFLFPPeeszXX7MvJPPgyx_EFU8bb5cyB7BqDPIWl7gfl_fGLZxvqRtv6vZ6NDcJj1Xs-CGjGBi_k9pa4C_UJ8YO0Q6334N9grh3oGoH1WbCLIxIPawj1e9M0UzZhHKyahwMaKBSD2ciOyVpMYBYUBLMD2IZwI1PTpMWEeYZcmmbkaOSqnuF6tp6pLXNjDT4E8hGgN4tQ',
+    'Error' => '',
+    'EpireTime' => 'Fri, 23 Apr 2021 20:21:46 GMT',
+    'ChangePassword' => false,
+  ),
+)  
+[2021-04-21 11:22:02] local.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 7,
+    'Description' => '951433',
+    'IPAddress' => '127.0.0.1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
