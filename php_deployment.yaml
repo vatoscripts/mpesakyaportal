@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: php
+  labels:
+    tier: backend
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: php
+      tier: backend
+  template:
+    metadata:
+      labels:
+        app: php
+        tier: backend
+    spec:
+      volumes:
+      - name: dir
+        hostPath:
+          path: /appsource
+      containers:
+      - name: php
+        image: kiyange26773/biokycappdevapp
+        volumeMounts:
+        - name: dir
+          mountPath: /appsource
+      initContainers:
+      - name: install
+        image: busybox
+        volumeMounts:
+        - name: dir
+          mountPath: /appsource
+        command:
+        - cp
+        - "-r"
+        - "/var/www/."
+        - "/appsource/app"
