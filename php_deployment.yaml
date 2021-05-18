@@ -19,21 +19,21 @@ spec:
       volumes:
       - name: dir
         hostPath:
-          path: /appsource
+          path: /mpesaappsource
       containers:
       - name: php
         image: kiyange26773/biokycappdevapp
         volumeMounts:
         - name: dir
-          mountPath: /appsource
+          mountPath: /mpesaappsource
       initContainers:
       - name: install
         image: busybox
         volumeMounts:
         - name: dir
-          mountPath: /appsource
+          mountPath: /mpesaappsource
         command:
         - cp
         - "-r"
         - "/var/www/."
-        - "/appsource/app"
+        - "/mpesaappsource/app"
