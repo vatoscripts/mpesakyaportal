@@ -22,7 +22,8 @@ spec:
           path: /mpesaappsource
       containers:
       - name: php
-        image: kiyange26773/mpesakyadevportal:v1
+        #image: kiyange26773/mpesakyadevportal:v1
+        image: kiyange26773/justapp
         volumeMounts:
         - name: dir
           mountPath: /mpesaappsource
