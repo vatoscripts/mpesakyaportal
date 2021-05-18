@@ -10,7 +10,7 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-      nodePort: 32389
+      nodePort: 32289
   selector:
     tier: backend
     app: nginx
