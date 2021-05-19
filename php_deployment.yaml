@@ -23,7 +23,7 @@ spec:
       containers:
       - name: php
         #image: kiyange26773/mpesakyadevportal:v1
-        image: kiyange26773/justapp
+        image: kiyange26773/laravel-sample-app:v1.0
         volumeMounts:
         - name: dir
           mountPath: /justapp
